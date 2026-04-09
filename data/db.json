@@ -1,34 +1,46 @@
 {
-    "characters": [
-      {
-        "id": 1,
-        "name": "Mr. Cute",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdMF-ZsfDPhexd-nMHeY7uis2d7dK8kcbhg&s",
-        "votes": 0
-      },
-      {
-        "id": 2,
-        "name": "Mx. Monkey",
-        "image": "https://play-lh.googleusercontent.com/jgb64BGFIRrOid0MpYkPE_4u-RRMDwsX1nz6PKc4mrRge3d0cWq6d5q3sV5UICs8ZAIvhFE1dLkSEmkmc7_2=w240-h480-rw",
-        "votes": 0
-      },
-      {
-        "id": 3,
-        "name": "Ms. Zebra",
-        "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
-        "votes": 0
-      },
-      {
-        "id": 5,
-        "name": "Mme. Panda",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_IM9KjDhYCMP0aBpwkY61mNioAS__ZCR2Q&s",
-        "votes": 0
-      },
-      {
-        "id": 4,
-        "name": "Mr. Giraffe",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQciA4nsfAahxqHHO75MG12l4WlftKwLZ7pRpdGW1MuEw&s",
-        "votes": 10
-      }
-    ]
-  }
+  "characters": [
+    {
+      "id": "1",
+      "name": "Mr. Cute",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdMF-ZsfDPhexd-nMHeY7uis2d7dK8kcbhg&s",
+      "votes": 0
+    },
+    {
+      "id": "2",
+      "name": "Mx. Monkey",
+      "image": "https://play-lh.googleusercontent.com/jgb64BGFIRrOid0MpYkPE_4u-RRMDwsX1nz6PKc4mrRge3d0cWq6d5q3sV5UICs8ZAIvhFE1dLkSEmkmc7_2=w240-h480-rw",
+      "votes": 0
+    },
+    {
+      "id": "3",
+      "name": "Ms. Zebra",
+      "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
+      "votes": 0
+    },
+    {
+      "id": "5",
+      "name": "Mme. Panda",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI_IM9KjDhYCMP0aBpwkY61mNioAS__ZCR2Q&s",
+      "votes": 0
+    },
+    {
+      "id": "4",
+      "name": "Mr. Giraffe",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQciA4nsfAahxqHHO75MG12l4WlftKwLZ7pRpdGW1MuEw&s",
+      "votes": 10
+    },
+    {
+      "id": "cd1f",
+      "name": "Mr Lion",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaqcWNSlfk3ijQ-Uiw5BFD1OURgHKt2DOK8z71osk9Dw&s",
+      "votes": 0
+    },
+    {
+      "id": "4040",
+      "name": "Mr Crocodile",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFZEru9fEA9YnfurDJIYimo3mj3fCS7wm4Vg&s",
+      "votes": 0
+    }
+  ]
+}

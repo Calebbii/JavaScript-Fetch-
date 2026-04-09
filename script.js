@@ -34,3 +34,33 @@ function displayContent(data) {
         dataContainer.appendChild(itemElement);
     })
 }
+
+// Form Handling
+const form = document.getElementById("character-form")
+
+form.addEventListener('submit', function(e){
+    e.preventDefault()
+
+    // Get users input
+    const name = document.getElementById('name').value
+    const image = document.getElementById('image').value
+
+    // Create a new object
+    const newCharacter = {
+        name: name,
+        image: image,
+        votes: 0
+    }
+
+    fetch(base_url, {
+        method: 'POST',
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(newCharacter)
+    })
+    .then(res => res.json())
+    .then(data => displayContent(data))
+
+    
+})
